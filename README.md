@@ -30,7 +30,7 @@ Good start to have something commence as I begin this site on Katie's 30th birth
  - Where to host the site once we are out of testing and how the hosting can be paid for?
  - Where to allow Rachel to post her ideas in way that is easy for her so we can collaborate seemlessly?
 
-* **Ideas To Remember**
+## **Ideas To Remember**
 The App
 - Scan the QR Code
 - Aura-like colors appear (of the creator’s choosing)
