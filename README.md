@@ -29,3 +29,30 @@ Good start to have something commence as I begin this site on Katie's 30th birth
  - How to produce random QRcodes and ensure they are maintained?
  - Where to host the site once we are out of testing and how the hosting can be paid for?
  - Where to allow Rachel to post her ideas in way that is easy for her so we can collaborate seemlessly?
+
+* **Ideas To Remember**
+The App
+- Scan the QR Code
+- Aura-like colors appear (of the creator’s choosing)
+- The departed’s name will appear as if it’s being written (maybe in their handwriting?), then will disappear the same way it was written
+- An image of the departed will appear as if forming from smoke or fading into full focus
+- It will become slightly smaller and move slightly upwards as a banner appears beneath (banner, flower banner, greenery)
+-T he full name will appear beneath the photo, then the birth/death dates and locations. 
+- A playlist curated by the departed’s loved one begins to play
+
+Scroll down -> Family Tree
+- Background changes to a breezy, fall theme
+- Family Tree has leaves flowing and falling off to represent the passage of time and changes to the tree. 
+- Family Tree taking up the full screen. 
+- At the very bottom is the departed, going up to photos of their parents, grandparents, and great-grandparents. User can stop there or tap to extend further. User may select each photo and read first or full names of the departed’s ancestors, nothing more. 
+
+Scroll down -> Photos of the departed
+- Childhood photos/videos in chronological order if the creator so chooses. 
+
+Scroll down -> Writings of the departed
+
+Scroll down -> Testimonials from loved ones
+
+Scroll down -> Option to leave virtual flowers or a kind word by users
+
+Scroll down -> Charity donation/playlist information
