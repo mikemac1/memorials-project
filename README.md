@@ -1,5 +1,5 @@
 # memorials-project
-This project is about allowing people to build memory pages of their loved ones.
+This project is about allowing people to build memory pages of their loved ones.  It will allow them to have a QR code people can scan and it would take them to a browser or the app and it would be an in-app memorial. Loved ones could scroll photos and videos of the person, see a small family tree, a playlist would be playing upon opening. A link to a charity the person loved could be included. People that scan it and visit can leave virtual flowers to let them know someone was there.
 
 ## Problem Domain
 
